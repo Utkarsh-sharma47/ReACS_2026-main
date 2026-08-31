@@ -13,6 +13,7 @@ import CRS from "./pages/CRS"
 import Speakers from "./pages/Speakers"
 import Attende from "./pages/Attende"
 import Oversight from "./pages/Oversight"
+import Keynote from "./pages/Keynote"
 function App() {
   return (
     <BrowserRouter>
@@ -30,6 +31,7 @@ function App() {
         {/* <Route path="/speakers" element={<Speakers />} /> */}
         <Route path="/attende" element={<Attende/>}/>
         <Route path="//oversight-committee" element={<Oversight/>}/>
+        <Route path="/keynote" element={<Keynote/>}/>
       </Routes>
     </BrowserRouter>
   )

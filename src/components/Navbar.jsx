@@ -19,7 +19,7 @@ const Navbar = () => {
     // { name: "Program Schedule", path: "/schedule" },
     { name: "Call for Papers", path: "/cfp" },
     { name: "Paper Submission", path: "/submission" },
-    // { name: "Keynote", path: "/speakers" },
+    { name: "Keynote Speakers", path: "/keynote" },
     { name: "About", path: "/about" },
   ];
 

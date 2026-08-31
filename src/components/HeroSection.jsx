@@ -23,6 +23,7 @@ function HeroSection() {
     { name: "Registration", path: "/registration" },
     { name: "Call for Papers", path: "/cfp" },
     { name: "Paper Submission", path: "/submission" },
+    { name: "Keynote Speakers", path: "/keynote" },
     { name: "About", path: "/about" }
   ];
 

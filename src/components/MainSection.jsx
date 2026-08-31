@@ -119,43 +119,7 @@ function MainSection() {
                             </div>
                         </div>
 
-                        {/* Conference Stats */}
-                        <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg p-5 border border-blue-200 shadow-sm">
-                            <h3 className="text-lg font-bold text-[#0f172a] mb-4">Conference Stats</h3>
-                            <div className="space-y-3">
-                                <div className="flex justify-between items-center p-3 bg-white rounded border border-blue-100">
-                                    <span className="text-slate-700 font-medium">Conference Tracks</span>
-                                    <span className="text-2xl font-bold text-blue-600">8</span>
-                                </div>
-                                <div className="flex justify-between items-center p-3 bg-white rounded border border-blue-100">
-                                    <span className="text-slate-700 font-medium">Research Areas</span>
-                                    <span className="text-2xl font-bold text-blue-600">25+</span>
-                                </div>
-                                <div className="flex justify-between items-center p-3 bg-white rounded border border-blue-100">
-                                    <span className="text-slate-700 font-medium">Disciplines</span>
-                                    <span className="text-2xl font-bold text-blue-600">3</span>
-                                </div>
-                            </div>
-                        </div>
 
-                        {/* Quick Info */}
-                        <div className="bg-gradient-to-br from-green-50 to-emerald-100 rounded-lg p-5 border border-green-200 shadow-sm">
-                            <h3 className="text-lg font-bold text-[#0f172a] mb-4">Quick Info</h3>
-                            <ul className="space-y-2 text-sm text-slate-700">
-                                <li className="flex items-start gap-2">
-                                    <span className="text-green-600 font-bold mt-0.5">✓</span>
-                                    <span><strong>IEEE Conference ID:</strong> 71472</span>
-                                </li>
-                                <li className="flex items-start gap-2">
-                                    <span className="text-green-600 font-bold mt-0.5">✓</span>
-                                    <span><strong>Focus:</strong> Sustainability & Trustworthiness</span>
-                                </li>
-                                <li className="flex items-start gap-2">
-                                    <span className="text-green-600 font-bold mt-0.5">✓</span>
-                                    <span><strong>Platform:</strong> Research Dissemination</span>
-                                </li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </div>
